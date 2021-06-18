@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\repos\ADO.Net\ADO.NETSqlDataAdapter\bin\Debug\ADO.NETSqlDataAdapter.exe.config
+C:\Users\lenovo\source\repos\ADO.Net\ADO.NETSqlDataAdapter\bin\Debug\ADO.NETSqlDataAdapter.exe
+C:\Users\lenovo\source\repos\ADO.Net\ADO.NETSqlDataAdapter\bin\Debug\ADO.NETSqlDataAdapter.pdb
+C:\Users\lenovo\source\repos\ADO.Net\ADO.NETSqlDataAdapter\obj\Debug\ADO.NETSqlDataAdapter.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\ADO.Net\ADO.NETSqlDataAdapter\obj\Debug\ADO.NETSqlDataAdapter.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\ADO.Net\ADO.NETSqlDataAdapter\obj\Debug\ADO.NETSqlDataAdapter.exe
+C:\Users\lenovo\source\repos\ADO.Net\ADO.NETSqlDataAdapter\obj\Debug\ADO.NETSqlDataAdapter.pdb
